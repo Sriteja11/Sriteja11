@@ -9,7 +9,7 @@
 💼 **Experience:** 3+ years in enterprise frontend development with Vue.js and React.js
 
 🏆 **Achievements:** 
-- Co-Founded Design System Vue3 adopted across Airbus
+- Co-Founded Design System Vue3- a component library adopted across Airbus
 - SPOT Award recipient for ModelOps Platform contributions
 - Google Cloud Advanced Generative AI certified
 
