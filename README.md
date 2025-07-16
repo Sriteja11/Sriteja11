@@ -22,9 +22,9 @@
 - **Cloud:** AWS (Lambda, S3, DynamoDB), Google Cloud Vertex AI
 - **Tools:** Git, Jenkins, JIRA
 
-👯 **Looking to collaborate on:** Open source Vue.js projects, AI/ML applications, and design systems
+👯 **Looking to collaborate on:** Open source Vue.js/React.js projects, AI/ML applications, and design systems
 
-💬 **Ask me about:** Vue.js development, building AI platforms, design systems, or enterprise web applications
+💬 **Ask me about:** Vue.js/React.js development, building AI platforms, design systems, or enterprise web applications
 
 📫 **How to reach me:** 
 - Email: sritejavalaboju000@gmail.com
