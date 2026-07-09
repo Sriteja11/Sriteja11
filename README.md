@@ -1,42 +1,37 @@
 ### Hi there 👋 I'm Sriteja Valaboju
+**Software Engineer at Airbus | GenAI & Agentic Systems | Full-Stack AI Platform Builder**
 
-**Software Engineer at Airbus | Vue.js & React.js Developer | AI Platform Builder**
+🔭 **Currently working on:** Production-grade GenAI platforms at Airbus — Augmented BMS (multi-agent chatbot, 80K users), AI Portfolio (centralized AI project tracking), and AgentAIR (reusable agentic platform capabilities)
 
-🔭 **Currently working on:** AI-powered platforms at Airbus - ModelOps (Official AI Platform) and AI Forge (AI collaboration platform)
+🌱 **Currently learning:** Agentic design patterns, LangGraph, and enterprise-scale LLMOps
 
-🌱 **Currently learning:** Advanced AI/ML technologies and modern web development patterns
+💼 **Experience:** 3+ years building AI-powered platforms and enterprise frontends at Airbus
 
-💼 **Experience:** 3+ years in enterprise frontend development with Vue.js and React.js
-
-🏆 **Achievements:** 
-- Co-Founded Design System Vue3- a component library adopted across Airbus
-- SPOT Award recipient for ModelOps Platform contributions
-- Google Cloud Advanced Generative AI certified
+🏆 **Achievements:**
+- SPOT Award (Nov 2025) — Augmented BMS, GenAI chatbot serving 80K+ Airbus users
+- SPOT Award (Mar 2025) — ModelOps Platform, the official Airbus AI Platform
+- Co-developed Vue 3 Design System — 50+ components adopted across Airbus teams
+- Google Cloud Advanced Generative AI certified (Vertex AI)
 
 🛠️ **Tech Stack:**
-- **Frontend:** Vue.js (2/3), React.js, TypeScript, HTML5, CSS3/SCSS
-- **State Management:** Vuex, Pinia, Zustand
-- **APIs:** REST, GraphQL, TanStack Query
-- **Testing:** Vitest, Cypress, Jest
-- **Backend:** Node.js, Python
-- **Cloud:** AWS (Lambda, S3, DynamoDB), Google Cloud Vertex AI
-- **Tools:** Git, Jenkins, JIRA
+- **GenAI & Agents:** Google ADK, LangChain, LangGraph, Multi-Agent Systems, ReAct Patterns, RAG, Semantic Search, pgvector, MCP, Prompt Engineering, LLMOps
+- **Backend:** Python, FastAPI, SQL
+- **Frontend:** React.js, Vue.js, TypeScript, Vite, Zustand, Pinia, Tailwind CSS
+- **Cloud — GCP:** Cloud Run, Cloud Functions, Cloud Build, Pub/Sub, Cloud SQL, Terraform
+- **Cloud — AWS:** Lambda, S3, DynamoDB, SageMaker, CDK, CloudFormation
+- **Tools:** Git, Docker, Jenkins, JIRA, Cypress, Jest, Vitest, Figma
 
-👯 **Looking to collaborate on:** Open source Vue.js/React.js projects, AI/ML applications, and design systems
+👯 **Looking to collaborate on:** Agentic AI systems, open source GenAI tooling, and AI platform infrastructure
 
-💬 **Ask me about:** Vue.js/React.js development, building AI platforms, design systems, or enterprise web applications
+💬 **Ask me about:** Multi-agent orchestration, RAG pipelines, building GenAI products at scale, or enterprise frontend architecture
 
-📫 **How to reach me:** 
+📫 **How to reach me:**
 - Email: sritejavalaboju000@gmail.com
-- LinkedIn: [linkedin.com/in/sriteja-valaboju-65184717a](https://linkedin.com/in/sriteja-valaboju-65184717a)
+- LinkedIn: [linkedin.com/in/sriteja-valaboju](https://linkedin.com/in/sriteja-valaboju)
 - Location: Bengaluru, Karnataka, India
 
-⚡ **Fun fact:** I help make AI accessible to everyone by building intuitive user interfaces for complex machine learning workflows!
+⚡ **Fun fact:** I reduced a multi-agent search pipeline from 2 minutes to 30 seconds — then built a fast mode that does it in 5!
 
 ---
 
 🎓 **Education:** B.Tech in Computer Science Engineering | Chaitanya Institute of Technology and Science (CGPA: 8.07)
-
-<!--
-**Sriteja11/Sriteja11** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
