@@ -5,7 +5,7 @@
 
 🌱 **Currently learning:** Agentic design patterns, LangGraph, and enterprise-scale LLMOps
 
-💼 **Experience:** 3+ years building AI-powered platforms and enterprise frontends at Airbus
+💼 **Experience:** 4+ years building AI-powered platforms and enterprise frontends at Airbus
 
 🏆 **Achievements:**
 - SPOT Award (Nov 2025) — Augmented BMS, GenAI chatbot serving 80K+ Airbus users
@@ -27,7 +27,7 @@
 
 📫 **How to reach me:**
 - Email: sritejavalaboju000@gmail.com
-- LinkedIn: [linkedin.com/in/sriteja-valaboju](https://linkedin.com/in/sriteja-valaboju)
+- LinkedIn: [linkedin.com/in/sriteja-valaboju](https://www.linkedin.com/in/sriteja-valaboju-65184717a/)
 - Location: Bengaluru, Karnataka, India
 
 ⚡ **Fun fact:** I reduced a multi-agent search pipeline from 2 minutes to 30 seconds — then built a fast mode that does it in 5!
