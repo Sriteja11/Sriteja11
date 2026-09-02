@@ -8,6 +8,7 @@
 💼 **Experience:** 4+ years building AI-powered platforms and enterprise frontends at Airbus
 
 🏆 **Achievements:**
+- Google Cloud Certified Professional Machine Learning Engineer
 - SPOT Award (Nov 2025) — Augmented BMS, GenAI chatbot serving 80K+ Airbus users
 - SPOT Award (Mar 2025) — ModelOps Platform, the official Airbus AI Platform
 - Co-developed Vue 3 Design System — 50+ components adopted across Airbus teams
