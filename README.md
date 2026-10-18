@@ -1,11 +1,11 @@
 # Sriteja Valaboju
 
-Software Engineer at Airbus. I build production agent systems, RAG pipelines, and cloud infrastructure on GCP and AWS. Mostly, I try to stop LLMs from making things up in front of 80,000 aerospace engineers.
+Software Engineer at Airbus. I build production agent systems, RAG pipelines, and cloud infrastructure on GCP and AWS. Mostly, I stop LLMs from making things up in front of 80,000 aerospace engineers.
 
 | Metric | Number | Context |
-| :--- | :--- | :--- |
-| **Users served** | 80,000 | Total Airbus employees with access to Augmented BMS, over 5,000 monthly active |
-| **Latency drop** | 120s to 5s | Cut multi-agent search to 30s, then added a direct semantic search fast mode |
+| :--- | :---: | :--- |
+| **Users served** | 80,000 | Airbus employees with access to Augmented BMS, over 5,000 monthly active |
+| **Latency drop** | 120s to 5s | Cut multi-agent search to 30s and added a 5s semantic search fast mode |
 | **Docker diet** | 80% smaller | Shrunk frontend images by 80%, ingestion by 50%, and backend by 10% |
 | **UI components** | 50+ | Co-developed the Airbus Vue 3 Design System in Storybook |
 
@@ -13,42 +13,37 @@ Software Engineer at Airbus. I build production agent systems, RAG pipelines, an
 
 ### Work at Airbus
 
-- **Augmented BMS.** Architected and shipped a conversational GenAI assistant indexing 4,000 internal documents. It answers employee questions so they do not have to read 4,000 PDFs themselves.
-- **Multi-agent search and latency.** Built multi-agent workflows with Google ADK for deep search, link analysis, and human-in-the-loop checkpoints. Rewrote Vertex AI vector retrieval pipelines with LangChain and pruned document chunks from 33,000 to 25,000. This cut search latency by 75 percent, from 120 seconds to 30 seconds. For people who cannot wait 30 seconds, I built a fast mode that returns answers in 5 seconds.
-- **Evaluation and grounding.** Added hallucination detection and response grounding using RAGAS and golden datasets. In an aerospace company, we prefer our AI answers to stay grounded.
-- **AI Portfolio and Skill Registry.** Led production delivery of the centralized AI project tracking platform using React, FastAPI, pgvector on Cloud SQL, and Cloud Run with role-based access control. Built the innersourced Skill Registry to package reusable agent skills and publish them to Artifactory and GCP Artifact Registry via Jenkins CI/CD.
-- **Container optimization.** Cut Docker image sizes by 80 percent for the frontend, 50 percent for the ingestion service, and 10 percent for the backend. Our CI/CD runners can breathe again.
-- **ModelOps Platform and Design System.** Led the Vue 3 frontend for the official Airbus AI platform, unifying model creation, AWS SageMaker deployments, drift detection, and cost dashboards under Vite and Pinia. Co-developed the Airbus Vue 3 Design System and convinced official engineering guidelines to adopt Vue alongside React and Angular.
+- **Augmented BMS.** Architected and shipped a conversational GenAI assistant indexing 4,000 internal documents so employees do not have to read 4,000 PDFs.
+- **Multi-agent search.** Built multi-agent workflows with Google ADK for deep search and human-in-the-loop checks. Rewrote Vertex AI retrieval pipelines with ADK and grounded responses using RAGAS and golden datasets.
+- **AI Platforms.** Led the ModelOps Vue 3 frontend and the AI Portfolio tracking platform using React, FastAPI, pgvector, and Cloud Run. Built the innersourced Skill Registry for reusable agent tools.
+
+---
+
+### Open source projects
+
+- **[pdf-utilities](https://github.com/Sriteja11/pdf-utilities).** Python web app to merge PDFs and convert images to PDF with no watermarks. [Live app](https://pdf-combine-0cf9.onrender.com).
+- **[performance-utils](https://github.com/Sriteja11/performance-utils).** Python tools to measure latency, throughput, and network performance across hosted services.
+- **[understand-research](https://github.com/Sriteja11/understand-research).** Python GenAI tool that extracts summaries, insights, and citations from research papers.
+- **[fitness-24](https://github.com/Sriteja11/fitness-24).** Workout tracking web app built in TypeScript. [Live app](https://fitness-24.vercel.app).
+- **[whatsapp-contacts-extractor](https://github.com/Sriteja11/whatsapp-contacts-extractor).** JavaScript automation script that exports WhatsApp group contacts to CSV.
+- **[Sriteja-portfolio](https://github.com/Sriteja11/Sriteja-portfolio).** My developer portfolio built with React and Vite. [Live site](https://sriteja11.github.io/Sriteja-portfolio/).
 
 ---
 
 ### Tech stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **GenAI and agents** | Google ADK, Gemini Enterprise, LangChain, LangGraph, Model Context Protocol, ReAct patterns, RAG, pgvector, Vertex AI, RAGAS, LangSmith |
-| **Languages and backend** | Python, TypeScript, JavaScript, SQL, FastAPI, Node.js, PostgreSQL, REST APIs, 3-legged OAuth 2.0 |
-| **Google Cloud** | Cloud Run, Cloud Functions, Cloud Build, Pub/Sub, Cloud SQL, BigQuery, Cloud Logging, Looker Studio, Terraform |
-| **AWS** | Lambda, API Gateway, S3, DynamoDB, SageMaker, CloudFormation, Python CDK, ECS |
-| **Frontend** | React, Vue 3, Vite, Pinia, Zustand, Tailwind CSS, Chart.js, Recharts, Storybook |
-| **Testing and DevOps** | Docker, Jenkins, Git, Cypress, Jest, Vitest |
+- **GenAI and agents:** Google ADK, Gemini Enterprise, LangChain, LangGraph, MCP, ReAct, RAG, pgvector, Vertex AI, RAGAS, LangSmith, Evals and Observability.
+- **Backend and cloud:** Python, TypeScript, SQL, FastAPI, Node.js, PostgreSQL, GCP Cloud Run, Cloud Functions, BigQuery, Terraform, AWS Lambda, S3, SageMaker, CDK
+- **Frontend and DevOps:** React, Vue 3, Vite, Pinia, Zustand, Tailwind CSS, Storybook, Docker, Jenkins, Cypress, Jest, Vitest
 
 ---
 
-### Certifications and awards
+### Certifications, awards, and education
 
-- **Google Cloud Certified Professional Machine Learning Engineer**
-- **Google Cloud Advanced Generative AI certification on Vertex AI**
-- **Airbus SPOT Award in November 2025** for shipping Augmented BMS to 80,000 users without breaking prod.
-- **Airbus SPOT Award in March 2025** for leading frontend architecture on the ModelOps Platform.
-
-### Education
-
-B.Tech in Computer Science Engineering from Chaitanya Institute of Technology and Science, graduated in 2022 with an 8.07 CGPA.
+- **Certifications:** Google Cloud Professional Machine Learning Engineer, Google Cloud Advanced Generative AI on Vertex AI
+- **Awards:** Two Airbus SPOT Awards in March and November 2025 for ModelOps frontend architecture and Augmented BMS delivery
+- **Education:** B.Tech in Computer Science Engineering from Chaitanya Institute of Technology and Science, graduated in 2022 with an 8.07 CGPA
 
 ### Contact
 
-- **Email:** [sritejavalaboju000@gmail.com](mailto:sritejavalaboju000@gmail.com)
-- **Portfolio:** [sriteja11.github.io/Sriteja-portfolio](https://sriteja11.github.io/Sriteja-portfolio/)
-- **LinkedIn:** [linkedin.com/in/sriteja-valaboju-65184717a](https://www.linkedin.com/in/sriteja-valaboju-65184717a/)
-- **Location:** Bengaluru, Karnataka, India
+Bengaluru, Karnataka, India | [sritejavalaboju000@gmail.com](mailto:sritejavalaboju000@gmail.com) | [Portfolio](https://sriteja11.github.io/Sriteja-portfolio/) | [LinkedIn](https://www.linkedin.com/in/sriteja-valaboju-65184717a/)
